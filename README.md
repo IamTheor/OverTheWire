@@ -111,7 +111,9 @@ The OS(operating system) is going to appear and we are going to select the **try
 
 ![install-try](Images/Linux-installation/install-try.png)
 
+The parrot try version is going to appear and we must click on **Install Parrot**.
 
+![install-parrot](Images/Linux-installation/install-parrot.png)
 
 
 
