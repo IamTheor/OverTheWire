@@ -29,14 +29,14 @@ First of all we must install the iso. For these tutorials we are goint to use **
 
 https://www.parrotsec.org/
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/parrot-page.png">
 </p>
 
 (1) Now are going to click in any of the download buttons.
 
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/download-button.png">
 </p>
 
@@ -46,7 +46,7 @@ https://www.parrotsec.org/
 
 (4) And finally choose the `iso(amd 64)` file.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/iso-option.png">
 </p>
 
@@ -56,19 +56,19 @@ Also we need a virtual machine because it will be the software where we are goin
 
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/vmware-page.png">
 </p>
 
 (1) We are going to scroll bar and click on the **Downloand now** button.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/vmware-button.png">
 </p>
 
 #### Third step: Verify the installation
 
-<p aling="center">
+<p align="center">
   <img width="260" src="Images/Linux-installation/files-verify.png">
 </p>
 
@@ -92,7 +92,7 @@ https://www.vmware.com/products/workstation-player/workstation-player-evaluation
 
 (10) Verify the installation
 
-<p aling="center">
+<p align="center">
   <img width="700" src="Images/Linux-installation/Guia01.png">
 </p>
 
@@ -116,7 +116,7 @@ https://www.vmware.com/products/workstation-player/workstation-player-evaluation
 
 (6) Finally click on the **finish** button.
 
-<p aling="center">
+<p align="center">
   <img width="700" src="Images/Linux-installation/Guia-vm01.png">
 </p>
 
@@ -124,13 +124,13 @@ https://www.vmware.com/products/workstation-player/workstation-player-evaluation
 
 The OS(operating system) is going to appear and we are going to select the **try/install** option and press enter.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/install-try.png">
 </p>
 
 The parrot try version is going to appear and we must click on **Install Parrot**.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/install-parrot.png">
 </p>
 
@@ -147,19 +147,19 @@ The parrot try version is going to appear and we must click on **Install Parrot*
 
 (User information) Here, we are going to write your username for your operating system, the name of the computer (in my case: parrot) and your password computer.
 
-<p aling="center">
+<p align="center">
   <img width="700" src="Images/Linux-installation/parrot-main01.png">
 </p>
 
 Now we just need to wait for the installation of the OS.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/installing-parrot-os.png">
 </p>
 
 And that's all. We have installed Parrot OS. We are going to click on **Done** and the operating system is going to start.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/all-done.png">
 </p>
 
@@ -168,13 +168,13 @@ And that's all. We have installed Parrot OS. We are going to click on **Done** a
 
 For this step just login using the password you assigned in (user information).
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/login-parrot.png">
 </p>
 
 Click on the terminal logo.
 
-<p aling="center">
+<p align="center">
   <img width="800" src="Images/Linux-installation/open-terminal01.png">
 </p>
 
